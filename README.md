@@ -33,7 +33,7 @@ A través de cualquier navegador entrando al link:
 [Run] (https://victorch2023.github.io/RealTimeBusTracker/)
 
 O descargando todos los archivos del siguiente repositorio.
-[Run] (https://github.com/victorch2023/RealTimeBusTracker)
+[Repo] (https://github.com/victorch2023/RealTimeBusTracker)
 Guárdelos en una sola carpeta. Y luego abra el archivo Index.html desde cualquier navegador. En la mayoría de los navegadores, se puede simplemente desplazar con el mouse el archivo Index.html desde la carpeta hacia el casillero de dominios en el navegador. Una vez listo el proyecto en la ventana del navegador, se hace clic en el botón “Show stops between MIT and Harvard”, y el puntero comenzará a moverse entre los paraderos de dicha ruta.
 
 
